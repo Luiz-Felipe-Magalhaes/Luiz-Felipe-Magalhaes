@@ -1,5 +1,6 @@
 ### 👋 Hello World, i'm Luiz Felipe!
 
+Sou Engenheiro Civil e estudando para me tornar Desenvolvedor cada dia melhor.
 
 <!--
 **Luiz-Felipe-Magalhaes/Luiz-Felipe-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
