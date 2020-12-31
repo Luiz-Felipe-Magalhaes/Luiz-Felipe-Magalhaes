@@ -1,6 +1,6 @@
 ### 👋 Hello World, i'm Luiz Felipe!
 
-Estudando diariamente para me tornar um Desenvolvedor cada vez melhor.
+Estudando para me tornar um Desenvolvedor cada dia melhor.
 
 <!--
 **Luiz-Felipe-Magalhaes/Luiz-Felipe-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
