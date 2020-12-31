@@ -1,4 +1,5 @@
 ### Olá, seja bem-vindo(a) ao meu GitHub 👋
+Estudando Java e tudo o que for necessário para me tornar um programador.
 
 <!--
 **Luiz-Felipe-Magalhaes/Luiz-Felipe-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
