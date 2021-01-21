@@ -2,6 +2,8 @@
 
 Estudando para me tornar um Desenvolvedor cada dia melhor.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-felipe-magalhaes&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-felipe-magalhaes" /> </p>
+
 <!--
 **Luiz-Felipe-Magalhaes/Luiz-Felipe-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
