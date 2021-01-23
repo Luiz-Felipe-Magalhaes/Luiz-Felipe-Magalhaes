@@ -1,4 +1,4 @@
-<h1>👋 Hello World, i'm Luiz Felipe!</h1>
+<h3>👋 Hello World, i'm Luiz Felipe!</h3>
 
 Civil Engineering and Web Developer.
 <br>Building things to build other things.
