@@ -1,7 +1,7 @@
 ### 👋 Hello World, i'm Luiz Felipe!
 
 Civil Engineering and Web Developer.
-Building things to build other things.
+<br>Building things to build other things.
 
 
 
