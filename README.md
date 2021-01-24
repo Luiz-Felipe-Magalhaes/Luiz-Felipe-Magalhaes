@@ -4,7 +4,7 @@ Civil Engineering and Web Developer.
 <br>Building things to build other things.
 
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-felipe-magalh%c3%a3es-134421125/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/luiz-felipe-magalh%C3%A3es-134421125/" height="30" width="40" /></a>
 </p>
