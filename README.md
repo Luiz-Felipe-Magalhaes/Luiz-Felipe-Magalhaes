@@ -5,9 +5,9 @@ Civil Engineering and Web Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luiz-felipe-magalh%c3%a3es-134421125/" target="blank"><img align="center" src="https://i.imgur.com/JXSPDzk.gif" alt="luiz-felipe-magalh%c3%a3es-134421125/" height="40" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/luiz-felipe-magalh%c3%a3es-134421125/" target="blank"><img align="center" src="https://i.imgur.com/JXSPDzk.gif" alt="luiz-felipe-magalh%c3%a3es-134421125/" height="40" width="40"></a>
    <span>&nbsp;</span>
-<a href="https://www.instagram.com/felipe_mag/?hl=pt-br" target="blank"><img align="center" src="https://i.imgur.com/mxQhjrW.gif" alt="luiz-felipe-magalh%c3%a3es-134421125/" height="40" width="40" /></a>
+<a target="_blank" href="https://www.instagram.com/felipe_mag/?hl=pt-br" target="blank"><img align="center" src="https://i.imgur.com/mxQhjrW.gif" alt="luiz-felipe-magalh%c3%a3es-134421125/" height="40" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
