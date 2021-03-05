@@ -20,7 +20,6 @@ Civil Engineering and Web Developer.
     </p>
      <p>
     <td align="center">
-      <a href="https://www.linkedin.com/in/luiz-felipe-magalh%C3%A3es-134421125/">
         <span>&nbsp;</span>
         <img  src="https://i.imgur.com/dQOiyRD.gif" height="195" width="195" >
         <span>&nbsp;</span>
