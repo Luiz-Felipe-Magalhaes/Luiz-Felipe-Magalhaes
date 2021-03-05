@@ -24,6 +24,10 @@ Civil Engineering and Web Developer.
         <img  src="https://i.imgur.com/dQOiyRD.gif" height="195" width="195" >
         <span>&nbsp;</span>
     <p>
+   <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Felipe-Magalhaes&show_icons=true&locale=en&layout=compact&theme=dark" alt="LuizFelipe" />
+       </p>    
+       
 
 <!--
 **Luiz-Felipe-Magalhaes/Luiz-Felipe-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
