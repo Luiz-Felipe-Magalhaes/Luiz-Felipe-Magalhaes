@@ -1,6 +1,7 @@
 <h3>👋 Hello World, i'm Luiz Felipe!</h3>
 
 Civil Engineer and Web Developer that loves apply knowledge to solve problems, create amazing products and impact lives.
+<br>
 <br>💻 Building things to build other things.
 
 
