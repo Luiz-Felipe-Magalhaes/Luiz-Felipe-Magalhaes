@@ -1,10 +1,6 @@
 <h3>👋 Hello World, i'm Luiz Felipe!</h3>
 
-👷‍Civil Engineer and Web Developer that loves apply knowledge to solve problems, create amazing products and impact lives.
-<br>
-👨‍💻Software Enginner at Itaú Unibanco
-<br>
-👨‍🏫Studying Systems Analysis and Development at FIAP
+Civil Engineer and Web Developer that loves apply knowledge to solve problems, create amazing products and impact lives.
 <p> 
 "Building things to build other things."
 </p>
