@@ -21,7 +21,7 @@ Civil Engineer and Web Developer that loves apply knowledge to solve problems, c
 
   <p>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Luiz-Felipe-Magalhaes&show_icons=true&theme=dark" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-Felipe-Magalhaes&show_icons=true&theme=dark" />
     </p>
      <p>
     <td align="center">
@@ -30,7 +30,7 @@ Civil Engineer and Web Developer that loves apply knowledge to solve problems, c
         <span>&nbsp;</span>
     <p>
    <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Felipe-Magalhaes&show_icons=true&locale=en&layout=compact&theme=dark" alt="LuizFelipe" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Luiz-Felipe-Magalhaes&show_icons=true&locale=en&layout=compact&theme=dark" alt="LuizFelipe" />
        </p>    
        
 
